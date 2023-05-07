@@ -71,7 +71,7 @@ body {
   padding: 6px;
   text-align: center;
   color: white;
-  background: #e53935;
+  background: #2a87c9;
 }
 
 /* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
@@ -221,22 +221,22 @@ a:hover::after {
 .mat-icon {
   vertical-align: middle;
 }
-// .bg-image {
-//   /* The image used */
-//   background-image: url("../../assets/img/food1.jpg");
+.bg-image {
+  /* The image used */
+  background-image: url("../../assets/img/market.jpg");
   
-//   /* Add the blur effect */
-//   filter: blur(3px);
-//   -webkit-filter: blur(3px);
+  /* Add the blur effect */
+  filter: blur(3px);
+  -webkit-filter: blur(3px);
   
-//   /* Full height */
-//   height: 100%; 
+  /* Full height */
+  height: 100%; 
   
-//   /* Center and scale the image nicely */
-//   background-position: center;
-//   background-repeat: no-repeat;
-//   background-size: cover;
-// }
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 
 /* Position text in the middle of the page/image */
 .bg-text {
